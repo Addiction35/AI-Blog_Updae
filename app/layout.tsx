@@ -9,7 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "NeuralPulse - AI, GenAI, Computer Vision & Deep Learning Blog",
   description: "Exploring the frontiers of artificial intelligence, generative AI, computer vision, and deep learning.",
-    generator: 'v0.dev'
+    author: 'Brian Manoti'
 }
 
 export default function RootLayout({
