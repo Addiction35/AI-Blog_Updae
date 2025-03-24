@@ -91,8 +91,8 @@ export default function AboutPage() {
             <h2>Contact Us</h2>
             <p>
               Have a question, suggestion, or want to collaborate? We'd love to hear from you! Reach out to us at{" "}
-              <a href="mailto:ameyaudeshmukh@gmail.com" className="text-purple-400 hover:text-purple-300">
-                ameyaudeshmukh@gmail.com
+              <a href="mailto:brianmanoti254@gmail.com" className="text-purple-400 hover:text-purple-300">
+                Brianmanoti254@gmail.com
               </a>
               .
             </p>
@@ -190,7 +190,7 @@ export default function AboutPage() {
               <ul className="space-y-2 text-sm text-gray-400">
                 <li className="flex items-center gap-2">
                   <Mail className="h-4 w-4" />
-                  <span>ameyaudeshmukh@gmail.com</span>
+                  <span>Brianmanoti254@gmail.com</span>
                 </li>
               </ul>
             </div>
