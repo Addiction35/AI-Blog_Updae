@@ -25,6 +25,7 @@ jobs:
         run: |
           git config --global user.name "Addiction35"
           git config --global user.email "brianmanotmgk@gmail.com.com"
+          git pull --rebase origin main 
           git add .
           git commit -m "Extracted ZIP files"
           git push
