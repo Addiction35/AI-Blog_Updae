@@ -31,6 +31,6 @@ NeuralPulse is a modern, responsive blog focused on AI, GenAI, Computer Vision, 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/neural-pulse.git
+https://github.com/Addiction35/AI-Blog_V1.1.0.git
 cd neural-pulse
 
